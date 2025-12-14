@@ -1,4 +1,3 @@
-# Anouar-Om
 <h1 align="center">Hi 👋, welcome to my GitHub profile</h1>
 
 <p align="center">
@@ -45,5 +44,25 @@ I enjoy learning new technologies and improving both my **technical** and **crea
 ## 🔗 Connect with Me
 
 <p>
-  <a href="[https://www.linkedin.com/in/anouar-omari-/]" target="_blank">
-    <
+  <a href="https://www.linkedin.com/in/anouar-omari-/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TON-USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON-USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  ⭐️ Thanks for visiting my profile
+</p>
