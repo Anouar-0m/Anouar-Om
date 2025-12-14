@@ -45,5 +45,5 @@ I enjoy learning new technologies and improving both my **technical** and **crea
 ## 🔗 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/TON-LINKEDIN" target="_blank">
+  <a href="[https://www.linkedin.com/in/anouar-omari-/]" target="_blank">
     <
