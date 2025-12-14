@@ -25,19 +25,20 @@ I enjoy learning new technologies and improving both my **technical** and **crea
   <img src="https://skillicons.dev/icons?i=html,css,php,mysql" />
 </p>
 
-### Development Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode" />
-</p>
-
 ### Design & Creative Tools
 <p>
   <img src="https://skillicons.dev/icons?i=photoshop,illustrator" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/adobeindesign.svg" height="48" />
 </p>
 
+### Development Tools
 <p>
-  🧩 Also using: Komodo IDE, Adobe InDesign
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/komodoide.svg" height="48" />
 </p>
+
+
+
 
 ---
 
@@ -53,13 +54,14 @@ I enjoy learning new technologies and improving both my **technical** and **crea
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TON-USERNAME&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON-USERNAME&layout=compact&theme=tokyonight" />
 </p>
+-->
 
 ---
 
