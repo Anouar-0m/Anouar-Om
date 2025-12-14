@@ -34,7 +34,8 @@ I enjoy learning new technologies and improving both my **technical** and **crea
 ### Development Tools
 <p>
   <img src="https://skillicons.dev/icons?i=vscode" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/komodoide.svg" height="48" />
+  [![Komodo](./images/komodo.png)](https://komodoplatform.com)
+
 </p>
 
 
