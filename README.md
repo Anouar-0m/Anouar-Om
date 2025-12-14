@@ -52,16 +52,7 @@ I enjoy learning new technologies and improving both my **technical** and **crea
 
 ---
 
-## 📊 GitHub Stats
 
-<!--<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON-USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON-USERNAME&layout=compact&theme=tokyonight" />
-</p>
--->
 
 ---
 
